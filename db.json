@@ -1,7 +1,5 @@
 {
     "users": [
-      { "id": 1, "username":"sk", "email":"sk@gmail.com","password":"asdf"}
-    ],
-    "hotels": [
+      { "id": 1, "username":"sk"}
     ]
   }
